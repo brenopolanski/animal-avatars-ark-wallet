@@ -1,6 +1,6 @@
 # Animal Avatars for [ARK Desktop Wallet](https://ark.io/wallet)
 
-> A collection of custom animal avatars to show in the [ARK Desktop Wallet](https://ark.io/wallet).
+> A collection of custom animal avatars to show in the wallet.
 
 ![Screenshot1](./screenshot1.png)
 
