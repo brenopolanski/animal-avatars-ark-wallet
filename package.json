@@ -1,0 +1,42 @@
+{
+  "name": "@breno.polanski/animal-avatars-ark-wallet",
+  "version": "0.1.0",
+  "description": "A collection of custom animal avatars to show in the wallet.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenopolanski/animal-avatars-ark-wallet.git"
+  },
+  "desktop-wallet": {
+    "title": "Animal Avatars",
+    "logo": "https://raw.githubusercontent.com/brenopolanski/animal-avatars-ark-wallet/master/logo.png",
+    "categories": [
+      "utility",
+      "avatar"
+    ],
+    "permissions": [
+      "COMPONENTS",
+      "AVATARS"
+    ],
+    "urls": [],
+    "minVersion": "2.6"
+  },
+  "keywords": [
+    "avatar",
+    "@arkecosystem",
+    "desktop-wallet",
+    "plugin",
+    "animal-avatars"
+  ],
+  "author": {
+    "name": "Breno Polanski",
+    "email": "breno.polanski@gmail.com",
+    "web": "http://brenopolanski.com",
+    "twitter": "brenopolanski"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brenopolanski/animal-avatars-ark-wallet/issues"
+  },
+  "homepage": "https://github.com/brenopolanski/animal-avatars-ark-wallet#readme"
+}
