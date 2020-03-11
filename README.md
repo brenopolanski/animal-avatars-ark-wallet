@@ -15,7 +15,7 @@
 
 ## Team
 
-This plugin is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/brenopolanski/dracula-theme-ark-wallet/graphs/contributors).
+This plugin is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/brenopolanski/animal-avatars-ark-wallet/graphs/contributors).
 
 | [![Breno Polanski](https://avatars0.githubusercontent.com/u/1894191?s=70&v=4)](https://github.com/brenopolanski)
 | :---: |
